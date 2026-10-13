@@ -1,0 +1,737 @@
+gene,segment,source_file,taxon,host,date
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PX457967.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MW871633.1,Avian,2018
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,DQ208309.1,Avian,1918
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY005822.1,Avian,1956
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MN530188.1,Avian,2012
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY003862.1,Avian,1977
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY014686.1,Avian,1956
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,EU871835.1,Avian,1987
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY179706.1,Avian,1975
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,GU052882.1,Avian,1963
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,AB274963.1,Human,1980
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV946091.1,Avian,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,GU052875.1,Avian,2002
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY005819.1,Avian,1963
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MW094698.1,Avian,2017
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY005624.1,Avian,1978
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,KF619244.1,Avian,1925
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV306261.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV370541.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OQ861242.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MH500872.1,Avian,2001
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,LC041310.1,Avian,2014
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,GU051972.1,Avian,1966
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY014998.1,Avian,1927
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY014693.1,Avian,1974
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY130037.1,Avian,1965
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,ON326607.1,Avian,2020
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PQ579025.1,Avian,2021
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MK996233.1,Avian,2019
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,KP185514.1,Avian,2013
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY015053.1,Avian,1934
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY067691.1,Avian,2007
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MH134703.1,Avian,2016
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MH498899.1,Avian,2017
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,KX185897.1,Avian,2015
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OQ861233.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,JX175250.1,Avian,2011
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OP476926.1,Avian,2020
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY028843.1,Non-human mammal,1963
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,LC364318.1,Avian,2017
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MF694187.1,Avian,2016
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MW090832.1,Avian,2016
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV739618.1,Avian,2025
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,JX494721.1,Non-human mammal,2010
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OP535288.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV235955.1,Avian,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MK361511.1,Non-human mammal,1987
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PP345568.1,Avian,2019
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MT666559.1,Non-human mammal,2018
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PQ191259.1,Avian,2023
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PP653396.1,Human,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MW295727.1,Non-human mammal,2013
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY039398.1,Non-human mammal,1966
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MF116344.1,Avian,2012
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV770031.1,Human,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,FR687270.1,Avian,2010
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PP929863.1,Avian,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MN882398.1,Avian,2017
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PP664071.1,Environment,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PQ356534.1,Human,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,AB600245.1,Non-human mammal,2004
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,FJ839891.1,Non-human mammal,2002
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MG962429.1,Non-human mammal,2012
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OR762271.1,Non-human mammal,2021
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,JN043464.1,Non-human mammal,2009
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV388416.1,Avian,2024
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,KF881680.1,Avian,2013
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,AB573797.1,Non-human mammal,2005
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MH376909.1,Bat,2017
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,OQ674405.1,Avian,2022
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY125942.1,Bat,2010
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,MH682200.1,Bat,2012
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,CY103873.1,Bat,2009
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,PV233913.1,Human,2023
+PB2,segment_1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_1_75subset_traits.tsv,DQ454102.2,Avian,2004
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PX461673.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PX444270.1,Non-human mammal,2021
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ115506.1,Non-human mammal,2020
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV412341.1,Avian,2021
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY015045.1,Avian,1979
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,GU361340.1,Avian,2007
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ675394.1,Avian,2024
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MH592195.1,Avian,2012
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY005799.1,Avian,1965
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PP333639.1,Avian,2023
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY014669.1,Avian,1966
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY014997.1,Avian,1927
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY004590.1,Avian,1977
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY179865.1,Avian,1975
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY004120.1,Avian,1979
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY015087.1,Avian,1959
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KF619245.1,Avian,1925
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KF435047.1,Avian,1953
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OQ862272.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KF193392.1,Avian,2012
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MW265245.1,Avian,2018
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY005821.1,Avian,1956
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY015052.1,Avian,1934
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MW205010.1,Avian,2017
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MK806578.1,Non-human mammal,2019
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KY925620.1,Human,2012
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OP601603.1,Avian,2019
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OP221316.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV410879.1,Avian,2021
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV421709.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,EU871834.2,Avian,1987
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OL370085.1,Avian,2015
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY077691.1,Avian,1981
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KJ729349.1,Avian,2013
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,AF389116.1,Human,1934
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OP535289.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MH499234.1,Environment,2016
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MH560232.1,Avian,2014
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MK996234.1,Avian,2019
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MN934004.1,Non-human mammal,2019
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OQ780920.1,Avian,2018
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,EU798909.1,Non-human mammal,2004
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ689842.1,Human,2020
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY028802.1,Non-human mammal,1978
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OQ426554.1,Non-human mammal,2021
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,JN869515.1,Avian,2009
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KF260579.1,Avian,2007
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MW295731.1,Non-human mammal,2014
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PP274818.1,Non-human mammal,2023
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PP345552.1,Avian,2019
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ191260.1,Avian,2023
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ327687.1,Avian,2024
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY089801.1,Non-human mammal,2010
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,JQ924795.1,Avian,2011
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY021059.1,Human,1954
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ116667.1,Non-human mammal,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KR700646.1,Non-human mammal,2009
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MN882447.1,Avian,2018
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KJ493634.1,Non-human mammal,2013
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PX457968.1,Avian,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,AB434414.1,Non-human mammal,1996
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,OQ360582.1,Non-human mammal,2022
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV388399.1,Avian,2024
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,HQ877025.1,Non-human mammal,2009
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,JN043460.1,Non-human mammal,2008
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PQ101255.1,Human,2024
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY039397.1,Non-human mammal,1966
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV739619.1,Avian,2025
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MW362660.1,Non-human mammal,2015
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MH376908.1,Bat,2017
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,KF881681.1,Avian,2013
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY103874.1,Bat,2009
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,CY125943.1,Bat,2010
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,MH682201.1,Bat,2012
+PB1,segment_2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_2_75subset_traits.tsv,PV233912.1,Human,2023
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OL355042.1,Avian,2019
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY240824.1,Avian,2016
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY005769.1,Avian,1983
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,GU052008.1,Avian,1975
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY004004.1,Avian,1978
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY004111.1,Avian,1979
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MH592235.1,Avian,2012
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY014654.1,Avian,1965
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY003884.1,Avian,1985
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY003973.1,Avian,1998
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KF435048.1,Avian,1953
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,GU122111.1,Avian,2008
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY005817.1,Avian,1963
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY240904.1,Environment,2016
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KJ729350.1,Avian,2013
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY005820.1,Avian,1956
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY014684.1,Avian,1956
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KY463821.1,Avian,2014
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY014676.1,Avian,1949
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV946097.1,Avian,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KU042230.1,Avian,2013
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,EU871833.1,Avian,1987
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV123271.1,Avian,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY014996.1,Avian,1927
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KF619246.1,Avian,1925
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MZ410775.1,Avian,2020
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY028841.1,Non-human mammal,1963
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY005863.1,Avian,1980
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV554096.1,MISSING,2023
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,GU052318.1,Avian,1992
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OQ861209.1,Avian,2022
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY015051.1,Avian,1934
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,HQ221596.1,Avian,2009
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MW107383.1,Avian,2017
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV421859.1,Avian,2023
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PP929865.1,Avian,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KY614998.1,Avian,2016
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV410190.1,Avian,2021
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV410198.1,Avian,2022
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PQ665460.1,Human,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,EU743056.1,Avian,1987
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KF768218.1,Avian,2006
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,AF389117.1,Human,1934
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KX523693.1,Avian,2016
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KF768198.1,Avian,2008
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MN882432.1,Avian,2017
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,JX273137.1,Avian,2011
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KU042740.1,Avian,2014
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MW356860.1,Avian,2015
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OQ367231.1,Human,2022
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,HQ877026.1,Non-human mammal,2009
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MZ945785.1,Non-human mammal,2019
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KJ162619.1,Avian,2013
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OP535170.1,Avian,2022
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PQ356533.1,Human,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV875053.1,Avian,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MW244134.1,Non-human mammal,2020
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV949366.1,Avian,2024
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY085837.2,Non-human mammal,2007
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PX457969.1,Avian,2022
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PP338283.1,Non-human mammal,2021
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OQ836215.1,Avian,2019
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,AB434415.1,Non-human mammal,1996
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY039396.1,Non-human mammal,1966
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,PV875061.1,Avian,2023
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MZ073289.1,Bat,2018
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MH376907.1,Bat,2017
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,KJ493635.1,Non-human mammal,2013
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OQ459925.1,Non-human mammal,2021
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,FJ844363.1,Non-human mammal,2005
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OR569040.1,Avian,2020
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,MH682202.1,Bat,2012
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY125944.1,Bat,2010
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,CY103875.1,Bat,2009
+PA,segment_3_PA,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_3_PA_75subset_traits.tsv,OM585572.1,Human,2021
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OP292921.1,Non-human mammal,2022
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV233914.1,Human,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OQ216561.1,Bat,2018
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MH764237.1,Avian,2017
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY103876.1,Bat,2009
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,LC728361.1,Non-human mammal,2022
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV133383.1,Avian,2025
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OL371919.1,Environment,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MK928220.1,Avian,2016
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY116759.1,Avian,1981
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY014710.1,Avian,1973
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY014976.1,Human,1957
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AF290439.1,Avian,1976
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY094365.1,Avian,2007
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY003847.1,Avian,1977
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY003871.1,Avian,1984
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MT624466.1,Avian,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KY272859.1,Avian,2016
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MZ575090.1,Avian,2014
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY005808.1,Avian,1977
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY042290.1,Avian,1997
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY125854.1,Human,1961
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MH498654.1,Environment,2016
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OR037484.1,Avian,2021
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY036871.1,Non-human mammal,1975
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OP535291.1,Avian,2022
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AB558258.1,Avian,2002
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KP766054.1,Avian,2014
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY006009.1,Avian,1983
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MW310457.1,Avian,2008
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AF194990.1,Avian,1997
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP864033.1,Non-human mammal,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OP435644.1,Human,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV738497.1,Non-human mammal,2025
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,DQ376621.1,Avian,1997
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY130030.1,Avian,1965
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY125945.1,Bat,2010
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,LC497097.1,Avian,2018
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MN530432.1,Environment,2007
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AY968676.1,Avian,1963
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY004036.1,Avian,1978
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY004054.1,Avian,1978
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY110921.1,Human,1934
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OQ737469.1,Non-human mammal,2021
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP691660.1,Avian,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MW345940.1,Avian,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MN932186.1,Non-human mammal,2018
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,FJ750571.1,Avian,1999
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AB542809.1,Avian,1978
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,AB558457.1,Avian,1981
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY034681.1,Avian,1993
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY110924.2,Human,2009
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV337324.1,Avian,2025
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KJ508885.1,Avian,2010
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,HM059998.1,Avian,2006
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KX977730.1,Avian,2008
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,CY014636.1,Avian,1981
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP829826.1,Environment,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MN911205.1,Avian,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MG214160.1,Avian,2017
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MG891872.2,Avian,2017
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MH453821.1,Avian,2014
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP555669.1,Human,2024
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PX129094.1,Avian,2024
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,FJ190111.1,Avian,2001
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP502447.1,Avian,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MN530511.1,Avian,2016
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV875062.1,Avian,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,OL371391.1,Environment,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PP829645.1,Environment,2023
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,ON637239.1,Avian,2008
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,PV410207.1,Avian,2022
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,MW170290.1,Non-human mammal,2019
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KP186856.1,Avian,2013
+HA,segment_4,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_4_75subset_traits.tsv,KP186859.1,Avian,2013
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PV233909.1,Human,2023
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PV449020.1,Non-human mammal,2024
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AB914485.1,Non-human mammal,2012
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PX271017.1,Avian,2024
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,HM193673.1,Avian,2006
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,GU053298.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AY611527.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,EU735837.2,Avian,1995
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AY633215.1,Avian,1998
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY004292.1,Avian,1976
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY014824.1,Avian,1995
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY003955.1,Avian,1996
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,EU557532.1,Avian,2006
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MW099136.1,Avian,2017
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY177521.1,Avian,1976
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MT261595.1,Avian,2019
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY004793.1,Avian,1979
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY004229.1,Avian,1990
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AY633119.1,Avian,1983
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,GU052002.1,Avian,1975
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY093761.1,Avian,2008
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY094376.1,Avian,2007
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY181340.1,Avian,1974
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,GU052316.2,Avian,1992
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AB932557.1,Avian,2014
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY015076.1,Avian,1983
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,EU182261.2,Avian,2001
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KF042075.1,Avian,2013
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY005259.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PP474947.1,Avian,2023
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MW727369.1,Avian,2018
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MH170290.1,Avian,2016
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MG366513.1,Avian,2016
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MK339598.1,Non-human mammal,2012
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KU860474.1,Avian,1980
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY014994.1,Avian,1927
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY004446.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,LC486290.1,Avian,2017
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MF510853.1,Avian,2017
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PP829811.1,Environment,2023
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KR824583.1,Avian,2010
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,LC497130.1,Environment,2018
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KX979010.1,Avian,2009
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PQ115509.1,Non-human mammal,2020
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,OQ168180.1,Non-human mammal,2019
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,OL371552.1,Environment,2019
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MN530615.1,Avian,2016
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,OL370293.1,Environment,2018
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY029892.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PV387981.1,Avian,2024
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PV123273.1,Avian,2024
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,ON911304.1,Avian,2021
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,HM145068.1,Avian,2004
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,EU871831.1,Avian,1987
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,OP458635.1,Non-human mammal,2020
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MG280144.1,Avian,2016
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY005803.1,Non-human mammal,1956
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,HQ877028.1,Non-human mammal,2009
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY005416.1,Avian,1990
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY246254.1,Non-human mammal,2016
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,OQ367072.1,Human,2022
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PX324940.1,Human,2019
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KP657910.1,Avian,2014
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,HM142749.1,Non-human mammal,2005
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KU860468.1,Avian,1980
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MN418734.1,Non-human mammal,2011
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MH991780.1,Avian,2014
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MG962433.1,Non-human mammal,2012
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,AF258516.1,Environment,1998
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,PX460739.1,Avian,2023
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MZ073287.1,Bat,2018
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,KX344897.1,Avian,1980
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,MN418736.1,Non-human mammal,2012
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY125946.1,Bat,2010
+NP,segment_5,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_5_75subset_traits.tsv,CY103877.1,Bat,2009
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH453833.1,Avian,2013
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KY644191.1,Avian,2016
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PV770036.1,Human,2024
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PX457169.1,Avian,2016
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,OL370288.1,Environment,2018
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY213697.1,Avian,2015
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PX063872.1,Avian,2024
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,EU871830.1,Avian,1987
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KY013750.1,Avian,2015
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MZ364006.1,Non-human mammal,2018
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MW874986.1,Avian,2020
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH347051.1,Environment,2017
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH134851.1,Avian,2016
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY005853.1,Avian,1999
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PP502591.1,Avian,2017
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PV412289.1,Human,2023
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PQ675398.1,Avian,2024
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY036873.1,Non-human mammal,1975
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH498747.1,Avian,2016
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KF435051.1,Avian,1953
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MK629014.1,Avian,2018
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PP549229.1,Avian,2022
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PX312471.1,Avian,2024
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY014993.1,Avian,1927
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PP664081.1,Environment,2022
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KP766161.1,Avian,2014
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,GU122057.1,Avian,2007
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MZ073285.1,Bat,2018
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MN911195.1,Avian,2019
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,OP535173.1,Avian,2022
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PV233908.1,Human,2023
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH682205.1,Bat,2012
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KR077934.1,Bat,2011
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KX185911.1,Avian,2015
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KX571080.1,Non-human mammal,2014
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY103878.1,Bat,2009
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY103894.1,Bat,2010
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,OL371105.1,Avian,2020
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,OP430901.1,Human,2019
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY003986.1,Avian,2002
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY004717.1,Avian,1977
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,EU429793.1,Avian,1968
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,GQ176110.1,Avian,1988
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY014625.1,Avian,1979
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,GQ176118.1,Avian,1985
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KY644153.1,Avian,2015
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY025255.1,Non-human mammal,1987
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,GQ161114.1,Non-human mammal,2003
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY115837.1,Non-human mammal,2005
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY115953.1,Non-human mammal,2005
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,AB434306.1,Non-human mammal,2004
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,AB434298.1,Non-human mammal,2003
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY098502.1,Non-human mammal,1994
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,AB434290.1,Non-human mammal,2000
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY116398.1,Non-human mammal,1995
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY037962.1,Non-human mammal,1999
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY115875.1,Non-human mammal,2001
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY061639.1,Non-human mammal,2009
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MK364857.1,Non-human mammal,2004
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY115906.1,Non-human mammal,2007
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,CY115929.1,Non-human mammal,2003
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KR700681.1,Non-human mammal,2011
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,KC209522.1,Non-human mammal,2012
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MZ410778.1,Avian,2020
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PP333643.1,Avian,2023
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,AB472016.1,Avian,2005
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PQ318337.1,Avian,2023
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PX129124.1,Avian,2025
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PV796172.1,Avian,2022
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MN933417.1,Non-human mammal,2018
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MN933410.1,Non-human mammal,2019
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MW269564.1,Non-human mammal,2017
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MT887311.1,Non-human mammal,2020
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,PV875064.1,Avian,2023
+NA,segment_6,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_6_75subset_traits.tsv,MH271630.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MH376903.1,Bat,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY015109.1,Avian,1983
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY116399.1,Non-human mammal,1995
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PQ358082.1,Avian,2024
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AF231360.1,Avian,1978
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AY300957.2,Avian,2000
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY005839.1,Avian,1997
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY003895.1,Avian,1986
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY004290.1,Avian,1976
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY003985.1,Avian,2002
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY015028.1,Avian,2002
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,DQ299830.1,Avian,2004
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,EU871829.2,Avian,1987
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,FJ752505.1,Non-human mammal,2000
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY005414.1,Avian,1990
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AF231358.1,Environment,1957
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,GU396852.1,Avian,2006
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY094254.1,Avian,2008
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY213552.1,Avian,2015
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AB753188.1,Avian,2007
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,HE802742.1,Avian,2006
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AB591848.2,Non-human mammal,2007
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY085425.1,Non-human mammal,2001
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,OQ861124.1,Avian,2022
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AB285935.1,Human,2001
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KP657912.1,Avian,2014
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW107875.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KJ162719.1,Avian,2013
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY004073.1,Avian,1979
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MZ073286.1,Bat,2018
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,OL370690.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PP276148.1,Avian,2022
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MG962435.1,Non-human mammal,2012
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY015047.1,Avian,1934
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KX977916.1,Avian,2007
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KM032356.1,Avian,2009
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KT936660.1,Avian,2013
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PV647681.1,Non-human mammal,2024
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW100599.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,GU049952.1,Environment,2007
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,GU903111.1,Avian,2008
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KY888127.1,Non-human mammal,2016
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MZ410779.1,Avian,2020
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY029890.1,Avian,2004
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,ON366872.1,Avian,2021
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,JX096507.1,Non-human mammal,2011
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KJ162591.1,Avian,2012
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MT261389.1,Avian,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MT261401.1,Avian,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PV391116.1,Avian,2024
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW103579.1,Avian,2016
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MN988776.1,Avian,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW101290.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW107355.1,Avian,2016
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW102899.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PV943724.1,Avian,2025
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PP896388.1,Non-human mammal,2022
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MK117073.1,Human,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PQ115391.1,Non-human mammal,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KC167169.1,Non-human mammal,2012
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MN933443.1,Non-human mammal,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY098249.1,Avian,2010
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,OL354877.1,Avian,2019
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,GQ335501.1,Avian,2006
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY005801.1,Non-human mammal,1956
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PQ070773.1,Human,2024
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,AF250491.1,Avian,1997
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,MW103115.1,Avian,2017
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KC610052.1,Non-human mammal,2010
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY103879.1,Bat,2009
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,CY125948.1,Bat,2010
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KR077935.1,Bat,2011
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KU143704.1,Human,2009
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,KU143693.1,Human,2009
+M1,segment_7_M1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M1_75subset_traits.tsv,PV233915.1,Human,2023
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KR233677.1,Avian,2014
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY048679.1,Avian,2007
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB304150.1,Avian,2004
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MK886524.1,Non-human mammal,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY103879.1,Bat,2009
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY125948.1,Bat,2010
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KR077935.1,Bat,2011
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OL355038.1,Environment,2019
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,GU050160.1,Avian,2007
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AJ298948.1,Environment,1969
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MK478680.1,Non-human mammal,2019
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB600868.1,Non-human mammal,2005
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JN391251.1,Non-human mammal,2004
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KM028938.1,Non-human mammal,2011
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY246653.1,Non-human mammal,2016
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KY971199.1,Avian,2013
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KM892801.1,Avian,2009
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,PV653848.1,Avian,2024
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MW621567.1,Non-human mammal,2020
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KM244111.1,Avian,2014
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KJ729346.1,Avian,2007
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB847432.1,Avian,2012
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY005839.1,Avian,1997
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MW110059.1,Avian,2016
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB753188.1,Avian,2007
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY005445.1,Avian,2001
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY003895.1,Avian,1986
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY004073.1,Avian,1979
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN049529.1,Avian,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OM527224.1,Avian,2021
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN049536.1,Avian,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY032318.1,Non-human mammal,1989
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JN391235.1,Non-human mammal,2003
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY085497.2,Non-human mammal,2002
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KM366696.1,Human,2014
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JN043435.1,Non-human mammal,2009
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KP657912.1,Avian,2014
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MW102835.1,Avian,2017
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,PP274916.1,Non-human mammal,2023
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB775609.1,Avian,2012
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OP535174.1,Avian,2022
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,EU662948.1,Avian,2004
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN882404.1,Avian,2017
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN882508.1,Avian,2019
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KC859057.1,Non-human mammal,2010
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN267533.1,Avian,2012
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OR664498.1,Avian,2023
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,GQ373129.1,Avian,2007
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JN200413.1,Avian,2010
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,GU122045.1,Non-human mammal,2008
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OR473200.1,Non-human mammal,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KF638582.1,Avian,2012
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN933445.1,Non-human mammal,2019
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,ON368086.1,Avian,2020
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MG280628.1,Avian,2011
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN933455.1,Non-human mammal,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KC610021.1,Non-human mammal,2011
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB600865.1,Non-human mammal,2004
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY089799.1,Non-human mammal,2010
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,KU143688.1,Human,2009
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MH168318.1,Human,2015
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY245658.1,Non-human mammal,2015
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JX499146.1,Avian,2009
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,OQ835506.1,Avian,2022
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MN169178.1,Human,2019
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MG962475.1,Non-human mammal,2012
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB285938.1,Human,2001
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,AB795909.1,Environment,2008
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY115999.1,Non-human mammal,1987
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,JQ396191.2,Human,2010
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,PV422111.1,Avian,2022
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,CY005801.1,Non-human mammal,1956
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MZ073286.1,Bat,2018
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,MH376903.1,Bat,2017
+M2,segment_7_M2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_7_M2_75subset_traits.tsv,DQ525415.1,Avian,2001
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MH682207.1,Bat,2012
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY125949.1,Bat,2010
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY103880.1,Bat,2009
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MZ564696.1,Avian,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OR044200.1,Environment,2020
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OQ120654.1,Avian,2015
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PP829831.1,Environment,2023
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB781665.1,Avian,2011
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MH578809.1,Avian,2005
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ031950.1,Avian,2023
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ191266.1,Avian,2023
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OQ413791.1,Avian,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MF046319.2,Avian,2016
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OQ793889.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OP806456.1,Avian,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY093092.1,Avian,2010
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MN882453.1,Avian,2018
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ032005.1,Avian,2023
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY109814.1,Avian,2007
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,GU051990.1,Avian,2007
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,FJ205646.1,Avian,1998
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,KY561224.1,Avian,2015
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,DQ997550.1,Avian,2003
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,JN244253.1,Avian,2010
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OL370334.1,Environment,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,KU320891.1,Avian,2015
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,EU249549.1,Avian,2004
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PV315204.1,Avian,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,ON716358.1,Avian,2021
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MK213335.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OL370260.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB775626.1,Avian,2012
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MW333194.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OR267222.1,Avian,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MG241347.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,LC486293.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB275410.1,Avian,2004
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AF250495.1,Avian,1997
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,KX518665.1,Avian,2014
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,GU050283.1,Avian,2006
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB932560.1,Avian,2014
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,KX228214.1,Avian,2014
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY029255.1,Avian,2003
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,KJ162720.1,Avian,2013
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OP535295.1,Avian,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OL450392.1,Environment,2015
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MW101805.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,LC364325.1,Avian,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ107775.1,Non-human mammal,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MZ477716.1,Non-human mammal,2020
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MT666836.1,Non-human mammal,2015
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MN939499.1,Non-human mammal,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB795922.1,Environment,2008
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY116000.1,Non-human mammal,1987
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,AB434340.1,Non-human mammal,2005
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PX101778.1,Human,2021
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PP274917.1,Non-human mammal,2023
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PX328778.1,Human,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PX335963.1,Human,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MN074254.1,Human,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MK300672.1,Non-human mammal,2017
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,LC430964.1,Non-human mammal,2003
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,JN043450.1,Non-human mammal,2008
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PX444236.1,Non-human mammal,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MZ073288.1,Bat,2018
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ115423.1,Non-human mammal,2019
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MN939508.1,Non-human mammal,2016
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,OQ356153.1,Non-human mammal,2022
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ115512.1,Non-human mammal,2020
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,MG962436.1,Non-human mammal,2012
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PX444276.1,Non-human mammal,2021
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PQ894542.1,Avian,2024
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,CY005804.1,Non-human mammal,1956
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,LC415038.1,Avian,2016
+NS1,segment_8_NS1,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS1_75subset_traits.tsv,PV233910.1,Human,2023
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,LC335987.1,Avian,2017
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,DQ525413.1,Avian,2001
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU599307.1,Avian,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB937725.1,Avian,2013
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,LC106108.1,Avian,2015
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB166866.1,Avian,2004
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB786680.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,LC000600.1,Avian,2014
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB735627.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB981454.1,Avian,2013
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU743310.1,Avian,1986
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB753181.1,Avian,2006
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB753189.1,Avian,2007
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB775803.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY003918.1,Avian,1988
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY015077.1,Avian,1983
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005701.1,Avian,1980
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005417.1,Avian,1990
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB735611.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005404.1,Avian,1983
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB593435.1,Avian,2006
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY029539.1,Avian,2006
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB727570.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB818501.1,Avian,2012
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU301358.1,Avian,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,DQ299857.1,Avian,2004
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB591849.2,Non-human mammal,2007
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY032297.1,Non-human mammal,1963
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU871832.1,Avian,1987
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY003898.1,Avian,1986
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB753212.1,Avian,2009
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AJ298949.1,Environment,1934
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY011000.2,Human,2000
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB442000.1,Human,2006
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY020449.1,Human,1936
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB514943.1,Non-human mammal,2008
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB434292.1,Non-human mammal,2000
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB909402.1,Non-human mammal,2011
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB434348.1,Non-human mammal,2003
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU301336.1,Non-human mammal,2004
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU409952.1,Non-human mammal,2007
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU258935.1,Non-human mammal,2006
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB434308.1,Non-human mammal,2004
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB434340.1,Non-human mammal,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB434412.1,Non-human mammal,1980
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU518716.1,Avian,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005804.1,Non-human mammal,1956
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AJ298950.1,Environment,1983
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB261857.1,Avian,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005738.1,Avian,1976
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AY241629.1,Avian,2001
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB916655.1,Avian,2013
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY015030.1,Avian,2002
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY005240.1,Avian,2000
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB781665.1,Avian,2011
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,AB275287.1,Avian,1980
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU182269.3,Avian,2004
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,LC000616.1,Avian,2013
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,EU430506.1,Avian,2005
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY103880.1,Bat,2009
+NEP,segment_8_NS2,/lustre/work/aurowell/influenza/cds/beast_ctmc_75_subset/metadata/segment_8_NS2_75subset_traits.tsv,CY125949.1,Bat,2010

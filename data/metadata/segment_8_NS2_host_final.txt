@@ -1,0 +1,62 @@
+Accession	Category
+LC000616.1	Avian
+AB937725.1	Avian
+AB775803.1	Avian
+AB735611.1	Avian
+AB727570.1	Avian
+AB781665.1	Avian
+EU518716.1	Avian
+LC106108.1	Avian
+EU871832.1	Avian
+CY125949.1	Bat
+CY015030.1	Avian
+CY005240.1	Avian
+CY005417.1	Avian
+CY003918.1	Avian
+CY003898.1	Avian
+CY015077.1	Avian
+CY005404.1	Avian
+CY005701.1	Avian
+CY005738.1	Avian
+LC000600.1	Avian
+AB981454.1	Avian
+AB916655.1	Avian
+AB786680.1	Avian
+CY029539.1	Avian
+AB753212.1	Avian
+EU182269.3	Avian
+LC335987.1	Avian
+AB591849.2	Non-human mammal
+CY032297.1	Non-human mammal
+CY005804.1	Non-human mammal
+AB818501.1	Avian
+AB735627.1	Avian
+EU301358.1	Avian
+AB753181.1	Avian
+AB442000.1	Human
+CY011000.2	Human
+CY020449.1	Human
+EU599307.1	Avian
+AB753189.1	Avian
+EU743310.1	Avian
+CY103880.1	Bat
+AB909402.1	Non-human mammal
+AB514943.1	Non-human mammal
+EU258935.1	Non-human mammal
+AB434340.1	Non-human mammal
+AB434308.1	Non-human mammal
+EU301336.1	Non-human mammal
+AB434348.1	Non-human mammal
+AB434292.1	Non-human mammal
+AB434412.1	Non-human mammal
+EU409952.1	Non-human mammal
+AB593435.1	Avian
+EU430506.1	Avian
+AB261857.1	Avian
+AB166866.1	Avian
+DQ525413.1	Avian
+AB275287.1	Avian
+DQ299857.1	Avian
+AY241629.1	Avian
+AJ298949.1	Environment
+AJ298950.1	Environment

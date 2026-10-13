@@ -1,0 +1,217 @@
+Accession	Category
+KY614859.1	Avian
+GU050160.1	Avian
+PQ135842.1	Avian
+MN049536.1	Avian
+KT936648.1	Avian
+KT936652.1	Avian
+KT936654.1	Avian
+KT936656.1	Avian
+MN049529.1	Avian
+PV390833.1	Avian
+AB847432.1	Avian
+AB775609.1	Avian
+AB727569.1	Avian
+JN244140.1	Avian
+CY094254.1	Avian
+KC609927.1	Avian
+CY048679.1	Avian
+FJ803181.2	Avian
+AB304150.1	Avian
+OP023947.1	Avian
+OM527224.1	Avian
+OM527200.1	Avian
+MW110059.1	Avian
+KY415661.1	Avian
+KU042619.1	Avian
+KU042836.1	Avian
+KP657912.1	Avian
+KY971199.1	Avian
+KY608250.1	Avian
+KU158898.1	Avian
+HM060047.1	Avian
+MT912724.1	Avian
+KR077935.1	Bat
+CY125948.1	Bat
+CY005445.1	Avian
+CY005839.1	Avian
+CY003895.1	Avian
+CY004073.1	Avian
+CY014695.1	Avian
+PP549358.1	Avian
+CY029890.1	Avian
+OR473200.1	Non-human mammal
+GU122045.1	Non-human mammal
+MH376903.1	Bat
+GQ907295.2	Avian
+MK886524.1	Non-human mammal
+CY032318.1	Non-human mammal
+CY005801.1	Non-human mammal
+PV653848.1	Avian
+OR664498.1	Avian
+PX457933.1	Avian
+PV422015.1	Avian
+PV422111.1	Avian
+OP225641.1	Avian
+OQ835506.1	Avian
+OR136559.1	Avian
+OP535174.1	Avian
+PV376686.1	Avian
+ON357954.1	Avian
+ON368086.1	Avian
+MZ564703.1	Avian
+MN882508.1	Avian
+MK053847.1	Avian
+MZ564743.1	Avian
+MN882404.1	Avian
+MW101220.1	Avian
+MW102835.1	Avian
+MW103923.1	Avian
+MW104627.1	Avian
+MH135468.1	Avian
+MF510855.1	Avian
+PX457165.1	Avian
+PX457180.1	Avian
+KU042913.1	Avian
+KY437786.1	Avian
+KR063681.1	Avian
+KP000018.1	Avian
+KM244111.1	Avian
+KX595238.1	Avian
+KU042445.1	Avian
+MN267533.1	Avian
+MH734534.1	Avian
+KF638582.1	Avian
+KF259405.1	Avian
+JX413794.1	Avian
+MG280628.1	Avian
+KC261480.1	Avian
+MN267522.1	Avian
+KC693590.1	Avian
+JN200413.1	Avian
+KM892801.1	Avian
+JX499146.1	Avian
+HM172137.1	Avian
+FR687289.1	Avian
+KJ729346.1	Avian
+GQ373129.1	Avian
+FJ464597.1	Avian
+GQ206306.1	Avian
+FJ464596.1	Avian
+EU662948.1	Avian
+GU050555.1	Avian
+FJ793399.1	Avian
+AB753180.1	Avian
+PQ101339.1	Human
+PQ070779.1	Human
+PX347480.1	Human
+MN169178.1	Human
+CY240034.1	Human
+MH168318.1	Human
+KM366696.1	Human
+JQ396191.2	Human
+KU143688.1	Human
+EF674934.1	Human
+EU587373.2	Human
+AB285938.1	Human
+CY033474.1	Human
+CY213552.1	Avian
+KR233677.1	Avian
+MZ073286.1	Bat
+AB753188.1	Avian
+JX069100.1	Avian
+CY103879.1	Bat
+PX444411.1	Non-human mammal
+PV536907.1	Non-human mammal
+PX444355.1	Non-human mammal
+PX444379.1	Non-human mammal
+PV802522.1	Non-human mammal
+PP274916.1	Non-human mammal
+OR391967.1	Non-human mammal
+PQ116784.1	Non-human mammal
+ON996259.1	Non-human mammal
+PQ116176.1	Non-human mammal
+PQ116216.1	Non-human mammal
+PP330769.1	Non-human mammal
+OL314778.1	Non-human mammal
+MW621567.1	Non-human mammal
+MZ088924.1	Non-human mammal
+MZ373133.1	Non-human mammal
+MN933445.1	Non-human mammal
+MK478680.1	Non-human mammal
+MW171070.1	Non-human mammal
+MN933455.1	Non-human mammal
+MK651288.1	Non-human mammal
+MH816716.1	Non-human mammal
+MK462315.1	Non-human mammal
+MK462668.1	Non-human mammal
+MK462692.1	Non-human mammal
+MK328742.1	Non-human mammal
+MG193835.1	Non-human mammal
+ON822119.1	Non-human mammal
+KY364187.1	Non-human mammal
+CY246268.1	Non-human mammal
+CY246653.1	Non-human mammal
+MT666369.1	Non-human mammal
+CY245658.1	Non-human mammal
+CY245786.1	Non-human mammal
+CY245858.1	Non-human mammal
+MK340280.1	Non-human mammal
+KU322810.1	Non-human mammal
+KT225469.1	Non-human mammal
+KM219075.1	Non-human mammal
+MT666819.1	Non-human mammal
+MT666827.1	Non-human mammal
+MK366938.1	Non-human mammal
+KJ470699.1	Non-human mammal
+MG962475.1	Non-human mammal
+KR700092.1	Non-human mammal
+KM029250.1	Non-human mammal
+KC355813.1	Non-human mammal
+MH061626.1	Non-human mammal
+KR700045.1	Non-human mammal
+KM028938.1	Non-human mammal
+JX908100.1	Non-human mammal
+JQ756384.1	Non-human mammal
+KC859057.1	Non-human mammal
+JF833363.1	Non-human mammal
+CY089799.1	Non-human mammal
+JN043435.1	Non-human mammal
+JN391258.1	Non-human mammal
+JN391261.1	Non-human mammal
+CY061656.1	Non-human mammal
+AB514942.1	Non-human mammal
+FJ829867.1	Non-human mammal
+GU086108.1	Non-human mammal
+CY115838.1	Non-human mammal
+JN391248.1	Non-human mammal
+JN391251.1	Non-human mammal
+CY115930.1	Non-human mammal
+JN391235.1	Non-human mammal
+FJ839907.1	Non-human mammal
+GU135913.1	Non-human mammal
+EU478807.1	Non-human mammal
+AB434299.1	Non-human mammal
+CY098519.1	Non-human mammal
+FJ839894.1	Non-human mammal
+CY085497.2	Non-human mammal
+CY115876.1	Non-human mammal
+CY085305.1	Non-human mammal
+CY115891.1	Non-human mammal
+CY115999.1	Non-human mammal
+AB434387.1	Non-human mammal
+KC610021.1	Non-human mammal
+AB600868.1	Non-human mammal
+AB600865.1	Non-human mammal
+OL355038.1	Environment
+KY629515.1	Environment
+CY191660.1	Environment
+AB795909.1	Environment
+AB458242.1	Avian
+GU049952.1	Environment
+DQ465403.1	Avian
+AB126629.1	Environment
+DQ525415.1	Avian
+EU743218.1	Environment
+AF231358.1	Environment
+AJ298948.1	Environment
